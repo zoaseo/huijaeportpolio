@@ -21,7 +21,7 @@ const About = () => {
                             <div className='Masthead_description'>
                                 안녕하세요
                                 <br/>
-                                프론트엔드부터 시작하여
+                                프론트엔드부터 시작하여 백엔드까지
                                 <br/>
                                 재밌게 개발하는 것이 목표인 개발자입니다.
                             </div>
